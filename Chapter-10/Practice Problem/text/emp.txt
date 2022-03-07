@@ -1,0 +1,6 @@
+
+Name: Arpan 
+Salary=2000 
+
+Name: Adarsh 
+Salary=4000 
